@@ -1,0 +1,23 @@
+Question 1
+Determine the type of relationship formed between the following classes: 
+a. Mentee and Student
+    Mentee is a Student (Inheritance)
+
+b. Mentee and Mentor
+    A mentee is assign with a mentor (Association)
+
+c. Coach and Mentor
+    A coach is a mentor (Inheritance)
+
+d. Coach and Student
+    A coach is a student (Inheritance)
+
+e. Coach and Mentee
+    No direct relationship
+
+Question 2
+Name TWO (2) methods that later in the the code, will be declared as virtual.
+Justify your answers.
+edit() and print() in class Mentor, Coach and Support
+These two methods have the same function name and the inherited class, Coach 
+and Support will redefine the two functions.
