@@ -7,7 +7,7 @@ This course introduces software engineering principles and engineering approache
 
 # 📁 Assignments
 
-- 📄 [Academic Writing – Software Methodology Trends](./Assignment%201.pdf) – Discussion on DevOps practices and Agile methodology in modern software development, including continuous integration, continuous delivery, collaboration, and iterative development approaches
+- 📄 [Academic Writing – DevOps & Agile Software Development Methodology](./Assignment%201.pdf) – Discussion on DevOps practices and Agile methodology in modern software development, including continuous integration, continuous delivery, collaboration, and iterative development approaches
 ---
 
 # 📂 Project
