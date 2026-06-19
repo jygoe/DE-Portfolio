@@ -28,7 +28,3 @@ This course introduces software engineering principles and engineering approache
 
 ---
 
-# 🛠 Tools Used
-- UML Tools  
-- Microsoft Word / PDF Tools  
-- GitHub  
