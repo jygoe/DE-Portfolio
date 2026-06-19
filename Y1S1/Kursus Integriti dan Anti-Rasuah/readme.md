@@ -1,4 +1,4 @@
-# 📘 ULRS1032 - Integrity and Anti - Corruption Course
+# 📘 ULRS1032 - Integrity and Anti-Corruption Course
 
 ## 🧾 Course Brief  
 This course introduces UTM’s core values of Integrity, Synergy, Excellence, and Sustainability (ISES) to develop creative and innovative students for national development. It emphasizes integrity, ethics, anti-corruption awareness, and strong personal values in both daily life and organizations. The course also highlights diversity, ethical decision-making, and holistic problem-solving of current issues, while aligning with Malaysia’s Sustainable Development Goals (SDG) and national development vision.
