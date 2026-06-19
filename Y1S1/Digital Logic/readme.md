@@ -21,7 +21,7 @@ This course teaches us about the fundamentals of digital electronics, which form
 **Name: Elevator Controller System**  
 This project designs a digital elevator control system using sequential logic circuits for a hotel environment. Users select a destination floor (0–7) and must authenticate using either a room card (NFC simulation) or a passcode before the elevator operates. The system uses components such as comparators, SR latches, counters, and flip-flops, and is simulated using Deeds software. It demonstrates the application of digital logic in building a secure and automated elevator control system.  
   
-  👉 [View Project](./project/)
+  👉 [View Project](./Digital%20logic%20project.pdf/)
 
 ---
 
