@@ -10,7 +10,7 @@ This course introduces students to Information Systems and Technology (IS/IT) an
 ## 🧠 Design Thinking Assignment
 - 📄 [Design Thinking Report](./Assignment%20(Design%20Thinking%20Report).pdf) – Full report applying the 5 stages of design thinking (empathy, define, ideate, prototype, test)  
 - 🎥 [Design Thinking Video](./Assignment%20(Design%20Thinking)%20Video.md) – Video presentation of the design thinking process  
-- 🧾 [Design Thinking Reflection](./Assignment%20(Design%20Thinking%20Reflection).pdf) – Reflection on the learning process and outcomes  
+- 🧾 [Design Thinking Reflection](./Assignment%20(Design%20Thinking%20Reflection)) – Reflection on the learning process and outcomes  
 
 ---
 
