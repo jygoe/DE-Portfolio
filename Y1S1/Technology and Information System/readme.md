@@ -34,12 +34,6 @@ This course introduces students to Information Systems and Technology (IS/IT) an
 - 📄 [PC Assemble Documentation](./PC%20Assemble.pdf) – Written guide for PC assembly steps  
 - 📄 [PC Assemble Video Notes](./PC%20Assemble%20Video.md) – Supporting notes for the video  
 
----
-
-## 🌐 E-Portfolio
-- 🔗 GitHub Profile  
-- 🔗 LinkedIn Profile  
-- 🔗 Personal Website  
 
 ---
 
