@@ -6,8 +6,10 @@ This course introduces the fundamental concepts of discrete structure in compute
 ---
 
 ## 📝 Assignments
-- [Assignment 1](./assignment1/) – ...
-- [Assignment 2](./assignment2/) – ...
+- [Assignment 1](./Assignment%201.pdf/) – Set theory problems involving operations and logical quantifiers (∃, ∀) to solve mathematical expressions.
+- [Assignment 2](./Assignment%202.pdf/) – Problems on relations, functions, and recurrence relations involving analysis and problem solving.
+- [Assignment 3](./Assignment%203.pdf/) – Applications of pigeonhole principle, probability, and graph theory including paths and cycles.
+
 
 ---
 
@@ -17,6 +19,3 @@ This course introduces the fundamental concepts of discrete structure in compute
 - Takeaway: This course helped me develop logical thinking and problem-solving skills, even though I may not fully remember every detail, I understand the importance of discrete structures in computing.
 
 ---
-
-## 🛠 Tools Used
-- ...
