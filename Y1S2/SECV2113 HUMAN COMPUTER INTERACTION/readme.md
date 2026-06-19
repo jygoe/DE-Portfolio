@@ -1,4 +1,4 @@
-# 🧑‍💻 SECR1013 – Human Computer Interaction (HCI)
+# 🧑‍💻 SECV2113 – Human Computer Interaction (HCI)
 
 ## 📘 Course Brief
 This course introduces human-computer interaction (HCI) theories and user experience (UX) design processes. It focuses on understanding human behaviour, interaction design, system requirements, prototyping, and usability evaluation to create user-friendly systems.
