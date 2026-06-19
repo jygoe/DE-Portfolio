@@ -15,7 +15,7 @@ This course introduces students to Information Systems and Technology (IS/IT) an
 ---
 
 ## 💼 Assignment 1 – Career Development
-- 📄 [Career Development Report](./Assignment%201%20(Career%20Development).pdf) – Exploration of IT career paths, roles, and job requirements  
+- 📄 [Career Development Report](./Assignment%201%20(Career%20Development).pdf) – Exploration of IT career paths, roles, and job requirements from industry talk
 
 ---
 
