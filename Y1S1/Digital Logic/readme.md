@@ -9,7 +9,7 @@ This course teaches us about the fundamentals of digital electronics, which form
 
 - 📄 [Lab 1 – Combinational Logic](./Lab%201%20circuit.pdf) – Basic breadboarding and implementation of logic gates (AND, OR, NOT, NAND, XOR) using hardware circuits.
 - 📄 [Lab 2 – Logic Circuit Simulation](./Lab%202%20circuit.pdf) – Digital circuit design using Deeds Simulator, including truth tables and timing diagrams.
-- 📄 [Lab 3 – Synchronous Counter](./Lab%203/) – Design and construction of synchronous counters using flip-flops and logic gates.
+- 📄 [Lab 3 – Synchronous Counter](./Lab%203.jpg/) – Design and construction of synchronous counters using flip-flops and logic gates.
 
 
 ---
