@@ -5,9 +5,11 @@ This course teaches us about the fundamentals of digital electronics, which form
 
 ---
 
-## 🧪 Labs
-- [Lab 1](./lab1/) – ...
-- [Lab 2](./lab2/) – ...
+# 📁 Labs & Project
+
+- 📄 [Lab 1 – Combinational Logic](./Lab%201%20circuit.pdf) – Basic breadboarding and implementation of logic gates (AND, OR, NOT, NAND, XOR) using hardware circuits.
+- 📄 [Lab 2 – Logic Circuit Simulation](./Lab%202%20circuit.pdf) – Digital circuit design using Deeds Simulator, including truth tables and timing diagrams.
+- 📄 [Lab 3 – Synchronous Counter](./Lab%203/) – Design and construction of synchronous counters using flip-flops and logic gates.
 
 ---
 
@@ -25,12 +27,16 @@ This project designs a digital elevator control system using sequential logic ci
 
 ---
 
-## 💭 Reflection
-- What I learned:
-- Challenges:
-- Takeaway:
+# 💭 Reflection
+- **What I learned:** I learned how digital circuits are designed using logic gates and how sequential systems like counters and controllers work.
+- **Challenges:** Understanding flip-flop behavior and designing sequential logic circuits was challenging at first.
+- **Takeaway:** Digital logic is the foundation of all computing systems, and understanding it helps in designing real-world hardware systems.
 
 ---
 
-## 🛠 Tools Used
-- ...
+# 🛠 Tools Used
+- Deeds Digital Circuit Simulator
+- Breadboarding Components
+- Logic Gates (AND, OR, NOT, NAND, XOR)
+- Flip-Flops & Counters
+---
