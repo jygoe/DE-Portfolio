@@ -1,0 +1,39 @@
+Ahmad bin Abdullah
+1
+24
+
+Nurul binti Ahmad
+2
+163
+
+Hafizah binti Hakimi
+3
+450
+
+Amirul bin Muhamad
+4
+180
+
+Siti Aishah binti Ibrahim
+5
+600
+
+Thiva A/P Raju
+6
+50
+
+Zara binti Ahmad
+7
+720
+
+Teh Ru Qian
+8
+888
+
+Aisyah binti Abu Bakar
+9
+150
+
+Luqman Amirul
+10
+480
