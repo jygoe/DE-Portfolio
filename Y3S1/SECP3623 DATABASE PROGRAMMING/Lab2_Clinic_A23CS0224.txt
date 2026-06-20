@@ -1,0 +1,229 @@
+// Goe Jie Ying A23CS0224
+// Question A1
+use clinicdb
+db.createCollection("apointments")
+db.createCollection("loginSessions")
+
+// Question A2
+db.appointments.insertMany([
+    {
+    appointmentId: "A001",
+    patientName: "Jane Hafandi",
+    doctor: "John Tse",
+    department: "Cardiology",
+    status: "COMPLETED",
+    fee: 150,
+    appointmentDate: ISODate("2025-01-10")
+  },
+  {
+    appointmentId: "A002",
+    patientName: "Theiviya Bhullar a/l Rajeswary",
+    doctor: "Hafizuddin bin Nik Ashraf",
+    department: "Dermatology",
+    status: "PENDING",
+    fee: 80,
+    appointmentDate: ISODate("2025-01-12")
+  },
+  {
+    appointmentId: "A003",
+    patientName: "Yen Siaw Kaa",
+    doctor: "Tse Jio Lao",
+    department: "Orthopedics",
+    status: "CANCELLED",
+    fee: 0,
+    appointmentDate: ISODate("2025-01-13")
+  },
+  {
+    appointmentId: "A004",
+    patientName: "Noor Hjh Norsyamimie Zulhelmi binti Che Zulfaqar",
+    doctor: "John Tse",
+    department: "Cardiology",
+    status: "COMPLETED",
+    fee: 200,
+    appointmentDate: ISODate("2025-01-15")
+  },
+  {
+    appointmentId: "A005",
+    patientName: "Daniel Tan",
+    doctor: "Bishan a/l Sumisha Sodhy",
+    department: "Neurology",
+    status: "PENDING",
+    fee: 320,
+    appointmentDate: ISODate("2025-01-18")
+  },
+  {
+    appointmentId: "A006",
+    patientName: "Mohamad Samsul bin Sam",
+    doctor: "Tse Jio Lao",
+    department: "Orthopedics",
+    status: "COMPLETED",
+    fee: 120,
+    appointmentDate: ISODate("2025-01-20")
+  },
+  {
+    appointmentId: "A007",
+    patientName: "Nuur Hjh Muazzah Khusaini binti Amil Akif",
+    doctor: "Hafizuddin bin Nik Ashraf",
+    department: "Dermatology",
+    status: "CANCELLED",
+    fee: 0,
+    appointmentDate: ISODate("2025-01-22")
+  },
+  {
+    appointmentId: "A008",
+    patientName: "Grace Chong",
+    doctor: "Bishan a/l Sumisha Sodhy",
+    department: "Neurology",
+    status: "COMPLETED",
+    fee: 350,
+    appointmentDate: ISODate("2025-01-25")
+  },
+  {
+    appointmentId: "A009",
+    patientName: "Muhamed Syed Kamaruddin bin Wan Saifuddin",
+    doctor: "John Tse",
+    department: "Cardiology",
+    status: "PENDING",
+    fee: 180,
+    appointmentDate: ISODate("2025-01-27")
+  },
+  {
+    appointmentId: "A010",
+    patientName: "Hj A'zizul bin Razemi",
+    doctor: "Hafizuddin bin Nik Ashraf",
+    department: "Dermatology",
+    status: "COMPLETED",
+    fee: 90,
+    appointmentDate: ISODate("2025-01-30")
+  }
+])
+
+db.loginSessions.insertMany([
+  {
+    staffId: "S001",
+    staffName: "T'ng Jie Sha",
+    role: "Nurse",
+    status: "ACTIVE",
+    ipAddress: "192.168.1.10",
+    loginTime: ISODate("2026-01-07T08:30:00Z")
+  },
+  {
+    staffId: "S002",
+    staffName: "John Tse",
+    role: "Doctor",
+    status: "ACTIVE",
+    ipAddress: "192.168.1.11",
+    loginTime: ISODate("2026-01-07T08:45:00Z")
+  },
+  {
+    staffId: "S003",
+    staffName: "Nurul Hajjah Syafiqa Muhaimi binti Sukymi",
+    role: "Admin",
+    status: "INACTIVE",
+    ipAddress: "192.168.1.12",
+    loginTime: ISODate("2026-01-07T09:00:00Z")
+  },
+  {
+    staffId: "S004",
+    staffName: "Siaw Toh Tow",
+    role: "Nurse",
+    status: "ACTIVE",
+    ipAddress: "192.168.1.13",
+    loginTime: ISODate("2026-01-07T09:15:00Z")
+  },
+  {
+    staffId: "S005",
+    staffName: "Hafizuddin bin Nik Ashraf",
+    role: "Doctor",
+    status: "ACTIVE",
+    ipAddress: "192.168.1.14",
+    loginTime: ISODate("2026-01-07T09:30:00Z")
+  },
+  {
+    staffId: "S006",
+    staffName: "V. T. Asha",
+    role: "Receptionist",
+    status: "INACTIVE",
+    ipAddress: "192.168.1.15",
+    loginTime: ISODate("2026-01-07T09:45:00Z")
+  },
+  {
+    staffId: "S007",
+    staffName: "Nor Rasyiqah Zulkafli",
+    role: "Admin",
+    status: "ACTIVE",
+    ipAddress: "192.168.1.16",
+    loginTime: ISODate("2026-01-07T10:00:00Z")
+  },
+  {
+    staffId: "S008",
+    staffName: "Tse Jio Lao",
+    role: "Doctor",
+    status: "ACTIVE",
+    ipAddress: "192.168.1.17",
+    loginTime: ISODate("2026-01-07T10:15:00Z")
+  },
+  {
+    staffId: "S009",
+    staffName: "Shamini Ponnusamy a/l Balachandra Sakadivan",
+    role: "Nurse",
+    status: "INACTIVE",
+    ipAddress: "192.168.1.18",
+    loginTime: ISODate("2026-01-07T10:30:00Z")
+  },
+  {
+    staffId: "S010",
+    staffName: "Bishan a/l Sumisha Sodhy",
+    role: "Doctor",
+    status: "ACTIVE",
+    ipAddress: "192.168.1.19",
+    loginTime: ISODate("2026-01-07T10:45:00Z")
+  }
+])
+
+// Question B1
+db.appointments.find({status:"COMPLETED", fee:{ $gte:100,$lte:300 }},
+                    {_id:0, appointmentId:1,patientName:1,department:1,fee:1})
+                    .sort({department:1,fee:-1})
+
+// Question B2 may got wrong
+db.appointments.aggregate([
+  {
+    $group: {
+      _id: "$department",
+      totalAppointments: { $sum: 1 },
+      totalFees: { $sum: "$fee" }
+    }
+  },
+  {
+    $sort: { totalFees: -1 }
+  }
+])
+
+// Question C1
+db.loginSessions.find({status:"ACTIVE"},{_id:0,staffName:1,role:1,ipAddress:1,loginTime:1}).
+sort({loginTime:-1})
+
+// Question C2a
+db.loginSessions.distinct("ipAddress",{status:"ACTIVE"})
+
+// Question C2b
+db.loginSessions.aggregate([
+    { $match:{status:"ACTIVE"}},
+    { $group:{_id:"$staffId"}},
+    { $count:"activeStaff"}
+])
+
+// Question D1
+db.orders.createIndex({department:1,status:1})
+
+// Question D2a
+db.appointments.updateMany(
+    {status:"CANCELED"},
+    { $set: { status:"ARCHIVED"}}
+)
+
+// Question D2b
+db.loginSessions.deleteMany(
+    { status: "INACTIVE"}
+)
