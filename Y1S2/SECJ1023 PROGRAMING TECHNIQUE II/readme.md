@@ -13,6 +13,7 @@ This course introduces Object-Oriented Programming (OOP) using C++. It focuses o
 - 📄 [Exercise 4](./exercise%204/) – Polynomial model using class association.
 - 📄 [Exercise 5](./exercise%205/) – Mentor-mentee management system using polymorphism.
 - 📄 [Project](./PT2%20Project%20Final%20Report.pdf/) – A self-checkout system simulating real supermarket operations using OOP.
+- 📄 [Project Code](./Project%20Code/) – All code used in project
 
 ---
 
