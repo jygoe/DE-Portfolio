@@ -11,11 +11,6 @@ This course teaches us about the fundamentals of digital electronics, which form
 - 📄 [Lab 2 – Logic Circuit Simulation](./Lab%202%20circuit.pdf) – Digital circuit design using Deeds Simulator, including truth tables and timing diagrams.
 - 📄 [Lab 3 – Synchronous Counter](./Lab%203/) – Design and construction of synchronous counters using flip-flops and logic gates.
 
----
-
-## 📝 Assignments
-- [Assignment 1](./assignment1/) – ...
-- [Assignment 2](./assignment2/) – ...
 
 ---
 
