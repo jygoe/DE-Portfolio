@@ -12,7 +12,7 @@ This course introduces Object-Oriented Programming (OOP) using C++. It focuses o
 - 📄 [Exercise 3](./Exercise%203/) – Custom string class implementation using C++.
 - 📄 [Exercise 4](./Exercise%204/) – Polynomial model using class association.
 - 📄 [Exercise 5](./Exercise%205/) – Mentor-mentee management system using polymorphism.
-- 📄 [Project](./Project%20(The%20Perfect%20Grocery%20Shop)/) – A self-checkout system simulating real supermarket operations using OOP.
+- 📄 [Project](./PT2%20Project%20Final%20Report.pdf/) – A self-checkout system simulating real supermarket operations using OOP.
 
 ---
 
