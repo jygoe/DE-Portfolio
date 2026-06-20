@@ -33,6 +33,3 @@ This course introduces database programming concepts and techniques for developi
 - MongoDB Compass
 - SQL
 - MongoDB
-- Microsoft Word
-- PDF Tools
-- GitHub
