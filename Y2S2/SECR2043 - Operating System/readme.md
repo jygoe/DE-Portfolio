@@ -32,6 +32,4 @@ This course introduces the fundamental concepts of operating systems, which act 
 - Linux (Ubuntu)
 - Bash Scripting
 - C++
-- GCC Compiler
-- Terminal Commands
-- GitHub
+
