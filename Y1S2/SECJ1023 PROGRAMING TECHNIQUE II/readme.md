@@ -7,11 +7,11 @@ This course introduces Object-Oriented Programming (OOP) using C++. It focuses o
 
 # 📁 Assignments & Project
 
-- 📄 [Exercise 1](./Exercise%201/) – Introduction to classes and objects using a simple grading system.
-- 📄 [Exercise 2](./Exercise%202/) – GPA calculation system using class and object concepts.
-- 📄 [Exercise 3](./Exercise%203/) – Custom string class implementation using C++.
-- 📄 [Exercise 4](./Exercise%204/) – Polynomial model using class association.
-- 📄 [Exercise 5](./Exercise%205/) – Mentor-mentee management system using polymorphism.
+- 📄 [Exercise 1](./exercise%201/) – Introduction to classes and objects using a simple grading system.
+- 📄 [Exercise 2](./exercise%202/) – GPA calculation system using class and object concepts.
+- 📄 [Exercise 3](./exercise%203/) – Custom string class implementation using C++.
+- 📄 [Exercise 4](./exercise%204/) – Polynomial model using class association.
+- 📄 [Exercise 5](./exercise%205/) – Mentor-mentee management system using polymorphism.
 - 📄 [Project](./PT2%20Project%20Final%20Report.pdf/) – A self-checkout system simulating real supermarket operations using OOP.
 
 ---
