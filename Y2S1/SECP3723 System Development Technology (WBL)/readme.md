@@ -65,4 +65,4 @@ A web application that allows students to register and manage course enrollment.
 - HTML / CSS
 - Bootstrap
 - MySQL
-- XAMPP / Local Server Environment
+- XAMPP 
