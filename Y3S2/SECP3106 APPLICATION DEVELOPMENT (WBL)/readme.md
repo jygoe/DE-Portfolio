@@ -53,7 +53,7 @@ https://github.com/tanyiya/teacher-management-system
 # 💭 Reflection
 - **What I learned:** This project provided valuable experience in working with a real client and translating business requirements into a functional mobile application. I learned how to design workflows that support both administrative and teacher operations within a single system.
 
-- **Challenges:** One of the biggest challenges was designing the KPI evaluation logic and ensuring that different user roles could only access the functionalities relevant to them. Managing changing requirements from the client throughout development was also challenging.
+- **Challenges:** One of the biggest challenges was designing the module based on user requirements. We needed to ensure that all functions created fulfilled user preferences and aligned with real workflow needs. This required multiple refinements, discussions with the client in group chat and testing, and adjustments to the system design to make sure the final implementation was both practical and user-friendly.
 
 - **Takeaway:** This project strengthened my understanding of full application development, client communication, requirement analysis, and Flutter development. It also demonstrated how software can improve operational efficiency by automating administrative and performance management processes.
 
