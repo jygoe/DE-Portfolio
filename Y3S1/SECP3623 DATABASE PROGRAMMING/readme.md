@@ -5,6 +5,13 @@ This course introduces database programming concepts and techniques for developi
 
 ---
 
+
+# 🏆 Certification
+
+- 📜 [**Microsoft Certified: Azure Data Fundamentals**](https://www.credly.com/badges/2d19bab6-5572-4800-97eb-cf6b5339d6d5/public_url)
+
+---
+
 # 📁 Assignments
 
 - 📄 [Database Assignment 1](./DB%20Assignment%201.pdf) – Development of a hostel accommodation management database system using SQL, covering table creation, integrity constraints, data manipulation, joins, views, and reporting queries
