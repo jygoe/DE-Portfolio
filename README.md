@@ -44,8 +44,8 @@
 * 🎓 [Professional Skills Certificate](/Y3S1/PSC/)
 
 ### Year 3 Semester 2
-* 📱 [SECP3106 Application Development]
+* 📱 [SECP3106 Application Development](/Y3S2/PSC/SECP3106%20APPLICATION%20DEVELOPMENT%20(WBL))
 * ⚡ [SECP3133 High Performance Data Processing](/Y3S2/SECP3133%20High%20Performance%20Data%20Processing/)
-* 📈 [SECP3213 Business Intelligence]
+* 📈 [SECP3213 Business Intelligence](/Y3S2/SECP3213%20Business%20Intelligence)
 * 🏭 [SECP3843 Special Topic in Data Engineering](/Y3S2/SECP3843%20Special%20Topic%20in%20Data%20Engineering/)
 * 💡 [ULRS3032 Entrepreneurship & Innovation]
