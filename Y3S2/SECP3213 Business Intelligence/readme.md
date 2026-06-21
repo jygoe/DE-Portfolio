@@ -7,7 +7,7 @@ This course introduces the concepts, methodologies, and tools used to transform 
 
 # 🏆 Certification
 
-- 📜 **Alteryx Designer Core Certification**
+- 📜 [**Alteryx Designer Core Certification**](https://www.credly.com/badges/efe1de79-7a48-4629-8756-7849123cd336/public_url)
 
 ---
 
