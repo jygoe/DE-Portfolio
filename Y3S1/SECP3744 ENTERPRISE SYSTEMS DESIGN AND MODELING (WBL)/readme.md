@@ -5,6 +5,13 @@ This course focuses on enterprise information systems (EIS) and how organization
 
 ---
 
+# 🏆 Certification
+
+- 📜 [**Outlining the Financial Accounting Overview in SAP S/4HANA - Record of Achievement**](https://www.credly.com/badges/0b9b9d9e-3617-4472-9eb7-cb3eec4eab93/public_url)
+
+
+---
+
 # 📁 Assignments
 
 - 📄 [Assignment 1 – Blockchain in Enterprise Systems](./Assignment%201_BlockChain.pdf) – Academic study on blockchain applications in supply chain transparency, trust, scalability, and enterprise integration  
