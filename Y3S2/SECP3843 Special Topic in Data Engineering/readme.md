@@ -19,7 +19,8 @@ Throughout the semester, hands-on experience was gained in Microsoft Azure, Apac
 
 # 📁 Assignments & Tutorials
 
-* 📄 [Academic Writing](./Group19%20_TechnicalReport_Topic27AzureInDataEngineering.pdf) – A technical paper discussing Microsoft Azure as a cloud-based data engineering platform and comparing its services with Amazon Web Services (AWS) and Google Cloud Platform (GCP). The paper explored cloud architecture, scalability, data services, and enterprise adoption of cloud technologies.
+### 📄 [Academic Writing](./Group19%20_TechnicalReport_Topic27AzureInDataEngineering.pdf) – Azure in Data Engineering
+A technical paper discussing Microsoft Azure as a cloud-based data engineering platform and comparing its services with Amazon Web Services (AWS) and Google Cloud Platform (GCP). The paper explored cloud architecture, scalability, data services, and enterprise adoption of cloud technologies.
 
 ### 📄 [Tutorial 1](./Tutorial%201.pdf) – Azure Data Pipeline
 
