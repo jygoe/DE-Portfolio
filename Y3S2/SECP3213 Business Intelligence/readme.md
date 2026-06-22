@@ -26,7 +26,7 @@ This course introduces the concepts, methodologies, and tools used to transform 
 
 # 🏢 Industry Visits & Talks
 
-### EY Campus Tour
+### [EY Campus Tour](https://www.linkedin.com/posts/goejieying_ey-industrytalk-careerdevelopment-activity-7462681319899234305-nWkj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhAZL0BN4Ycm8NfxiAe8vWCDXDjkb4jSJY)
 Participated in an industry talk by EY to gain exposure to real-world business environment and gain insight on how to build a resume.
 
 ### Data & AI Governance Industry Talk
