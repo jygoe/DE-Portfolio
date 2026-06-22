@@ -10,10 +10,10 @@ Throughout the semester, hands-on experience was gained in Microsoft Azure, Apac
 
 # 📁 Industry Visits & Talks
 
-* 🏭 Industrial Visit to PPG (7 April) – Exposure to real-world working environment, understand the business requirement for PPG Project
+* 🏭 [Industrial Visit to PPG (7 April)](https://www.linkedin.com/posts/goejieying_7-april-2026-industrial-visit-to-ppg-industries-ugcPost-7447587975896526848-YHSp/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhAZL0BN4Ycm8NfxiAe8vWCDXDjkb4jSJY) – Exposure to real-world working environment, understand the business requirement for PPG Project
 * 🎤 Guest Lecture: Enhance Machine Learning Algorithms (28 April) – Learned practical techniques used to improve machine learning model performance.
-* 🏢 Industrial Talk by iZeno (13 May) – Gained industry insights into modern data technologies and professional practices.
-* 🎤 Industrial Talk by Mr. Zaid (20 May) – Explored enterprise technology solutions and industry applications of data engineering. 
+* 🏢 [Industrial Talk by iZeno (13 May)](https://www.linkedin.com/posts/goejieying_industrytalk-dataengineering-artificialintelligence-ugcPost-7462674778211028993-Zo5y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhAZL0BN4Ycm8NfxiAe8vWCDXDjkb4jSJY) – Gained industry insights into modern data technologies and professional practices.
+* 🎤 [Industrial Talk by Mr. Zaid (20 May)](https://www.linkedin.com/posts/goejieying_industrytalk-dataengineering-businessunderstanding-ugcPost-7462916650644770817-KnYe/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhAZL0BN4Ycm8NfxiAe8vWCDXDjkb4jSJY) – Explored enterprise technology solutions and industry applications of data engineering. 
 
 ---
 
