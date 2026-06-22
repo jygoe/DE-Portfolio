@@ -15,7 +15,7 @@ This course focuses on enterprise information systems (EIS) and how organization
 # 📁 Assignments
 
 - 📄 [Assignment 1 – Blockchain in Enterprise Systems](./Assignment%201_BlockChain.pdf) – Academic study on blockchain applications in supply chain transparency, trust, scalability, and enterprise integration  
-- 🖼️ [Assignment 2 – Industry Talk (PPG SAP CoE)](./Assignment%202_PPG.jpg) – Reflection on SAP evolution, ERP systems, and enterprise system modernization
+- 🖼️ [Assignment 2 – Industry Talk (PPG SAP CoE)](./Assignment%202_PPG.jpg) – Reflection on SAP evolution, ERP systems, and enterprise system modernization    
 👉 [View LinkedIn](https://www.linkedin.com/posts/goejieying_ppg-industrytalk-learningexperience-activity-7393301794656935936-6IXv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhAZL0BN4Ycm8NfxiAe8vWCDXDjkb4jSJY) 
 - 🖼️ [Assignment 3 – UTHM Industrial Visit](./Assignment%203_UTHM.jpg) – Report on university data center infrastructure, security, and enterprise architecture practices  
 👉 [View LinkedIn](https://www.linkedin.com/posts/goejieying_3-december-2025-industrial-visit-to-uthm-activity-7403071252019798016-xUkt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhAZL0BN4Ycm8NfxiAe8vWCDXDjkb4jSJY)
